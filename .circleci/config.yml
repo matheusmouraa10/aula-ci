@@ -7,5 +7,5 @@ jobs:
     steps:
       - checkout
       - run:
-         name: Run tests
-         command: go test -v
+          name: Run tests
+          command: go test -v
