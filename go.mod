@@ -1,2 +1,2 @@
-module github.com/matheusmouraa10/aula-ci
+module matheusmouraa10.com/aula-ci
 go 1.20
